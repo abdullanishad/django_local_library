@@ -1,0 +1,20 @@
+{% extends "base_generic.html" %}
+<!--challenge of MDN tutorial 6-->
+{% block content %}
+  <h1>Author List</h1>
+  {% if author_list %}
+  <ul>
+    {% for author in author_list %}
+      <li>
+        <a href="{{ author.get_absolute_url }}">{{ author.last_name }}</a>
+        {% if perms.catalog.can_mark_returned %}
+          -<a href="{% url 'author_update' author.id %}">Update</a>
+          -<a href="{% url 'author_delete' author.id %}">delete</a>
+          {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+  {% else %}
+    <p>There are no author in the library.</p>
+  {% endif %}       
+{% endblock %}
