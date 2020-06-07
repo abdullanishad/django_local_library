@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="32d0c77b-aa60-45f7-9492-84db137a1092" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/locallibrary/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/locallibrary/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,10 +122,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="412" y="146" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1590923888704" />
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1591524467026">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1591540231886">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1591524467026" />
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1591540231886" />
     <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1590926251019">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -147,10 +146,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1589686831792" />
-    <state x="378" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1591277988981">
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1591539600784">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1591277988981" />
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1591539600784" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1590512175147">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
